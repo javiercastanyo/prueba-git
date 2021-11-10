@@ -1,0 +1,33 @@
+{
+  "$id": "5",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2021-11-10T18:01:46.4816336+01:00",
+  "LastUsedView": 1,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "Branches"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "NeedsLargeFilesPull": false,
+  "RemoteProjectLinks": [
+    {
+      "$id": "6",
+      "BaseUrl": "https://github.com",
+      "Identifier": "javiercastanyo/prueba-git",
+      "RemoteName": "origin",
+      "Type": 0,
+      "Username": "javiercastanyo",
+      "CloneUrl": null,
+      "ProjectUrl": null,
+      "AccountId": "javiercastanyo@github.com",
+      "AvatarUrl": null,
+      "DisplayName": "origin: https://github.com"
+    }
+  ]
+}
